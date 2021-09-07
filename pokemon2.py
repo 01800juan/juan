@@ -1,5 +1,8 @@
 import requests
 #
+#Script en python que consulta la api de pokemon
+#para listar los nombres de pokemon pero se lo agrego
+#una funcion para que tuviera interaccion.
 if __name__ == '__main__':
     url = 'http://pokeapi.co/api/v2/pokemon form/'
 
