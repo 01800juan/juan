@@ -19,5 +19,8 @@ if __name__ == '__main__':
         next = input("'¿continuar listando?' [Y/N]").lower()
         if next = y
             get_pokemons(offset=offset+20)
+#            
+# Fin de la funcion get_pokemons
+#
 if __name__ == '__main__':
     get_pokemons()
